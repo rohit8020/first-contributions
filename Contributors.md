@@ -1039,6 +1039,7 @@
 - [Evie Vanderveer](https://github.com/eviebat)
 - [Kacper Skowroński](https://github.com/PandaHajs)
 - [Arjun VC](https://github.com/ArjunGTX)
+- [Vaibhav Srivastava](https://github.com/Vaibhav-srivastava-knit)
 - [Tanishq Kumar](https://github.com/tanishq20)
 - [Hlaing Min Than](https://github.com/hlaingminthan)
 - [GoGstickGo](https://github.com/GoGstickGo)
