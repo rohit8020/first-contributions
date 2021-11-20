@@ -18,6 +18,7 @@
 - [Bartlomiej Wysocki](https://github.com/Bart-del)
 - [kurmittens](https://github.com/kurmittens/)
 - [Khushi Sinha](https://github.com/khushisinha20/)
+- [Rahul Singh](https://github.com/rahul7266/)
 - [tonim19](https://github.com/tonim19)
 - [Soufiane Elharem](https://github.com/Selharem)
 - [Sergey Romanenko](https://github.com/Awilum)
