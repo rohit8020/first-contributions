@@ -154,6 +154,7 @@
 - [Ron Alvarez](https://github.com/RonAlvarez123)
 - [Gopi Sri Krishna](https://github.com/gopisrikrishna)
 - [Ebi Domo-Spiff](https://github.com/James-spiff)
+- [Rohit Gangwar](https://github.com/rohit8020)
 - [(Gauransh Juneja)](https://github.com/GaushJ)
 - [John Gilpin](https://github.com/jgilpn)
 - [Ankan Bhaumik](https://github.com/bhaumikankan)
